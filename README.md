@@ -1,18 +1,13 @@
 # ARShopify
-This is an Android Native application which is developed as a solution for _**HackOn with Amazon 2022**_ for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
-Click [here](https://youtu.be/ebxUM9ym_Bw) for the video presentation with app demo.
-
-## Problem Statement:
-What is that one thing that has refrained customers from buying online for a long time? One of the prominent differences between traditional and online shopping has been physically experiencing the products, confirming its size, all of which has been a pain point for a very long time while buying any product online. If we could solve this problem of product trials, checking the product dimensions by comparing it with real world objects, we can onboard many customers who doesn’t buy online because of this gap.
-
-## Proposed Solution:
-We intend to solve these problems by using the _Augmented Reality (AR) Technology_, through which we’ll target on providing customers with virtual representation analysing the product’s size, fitment, colour theme sync, etc. With the feature of trying out their products virtually through their mobile phones, the gap between the customer and the product will be minimized.
+One of the prominent differences between traditional and online shopping has been physically experiencing the products, confirming its size, all of which has been a pain point for a very long time while buying any product online. If we could solve this problem of product trials, checking the product dimensions by comparing it with real world objects, we can onboard many customers who doesn’t buy online because of this gap.
+This is an Android Native application to solve these problems by using the _Augmented Reality (AR) Technology_, through which we’ll target on providing customers with virtual representation analysing the product’s size, fitment, colour theme sync, etc. With the feature of trying out their products virtually through their mobile phones, the gap between the customer and the product will be minimized.
+Click [here](https://drive.google.com/file/d/1zuTviOjooH8JMikaC3NbbG3upJztGkdF/view?usp=sharing) for the video presentation with app demo.
 
 ## Screenshots of the application :
 
-![Application Screenshots1](./doc_assets/ScreenShot1.png)
-![Application Screenshots2](./doc_assets/ScreenShot2.png)
-![Application Screenshots3](./doc_assets/ScreenShot3.png)
+![WhatsApp Image 2023-11-20 at 00 26 48](https://github.com/DarkCoder999/ARShopify/assets/98643503/ae3f2ba9-0206-4806-9a6f-7a39f939fd80)
+![WhatsApp Image 2023-11-20 at 00 26 00](https://github.com/DarkCoder999/ARShopify/assets/98643503/3b2f7931-8667-49e9-8dac-768228a90eba)
+![WhatsApp Image 2023-11-20 at 00 32 21](https://github.com/DarkCoder999/ARShopify/assets/98643503/489499d0-e0a2-4e5d-894b-b6cbb248145b)
 
 ## How does it work?
 We will be using **SceneViewer** by triggering a explicit intent to it. 
@@ -23,30 +18,12 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 2. **Environmental understanding** allows the phone to detect the size and location of all type of surfaces: horizontal, vertical and angled surfaces like the ground, a coffee table or walls.
 3. **Light estimation** allows the phone to estimate the environment's current lighting conditions.
 
-## How quick can this technology be implemented ?
-Our solution can be instantly be brought to production with the existing shopping applications for different products.
-
-## What is the impact of this solution ?
-The impact of adding this feature will be huge, as we’ve now reduced the gap between our customers and the actual product. More and more people would be eager to try the product and ultimately increase the sales by a very large factor.
-
-## Is the solution scalable ?
-The solution is highly scalable as it can be implemented with the existing shopping applications.
-
-## Business Relevance :
-After bringing the idea to production, more and more users will be tempted to check out the products and the transition barrier from traditional offline buying to online would be reduced, thus increasing the sales.
-
 ## Use this application : 
-
-1. You can download the [APK](https://drive.google.com/file/d/1jXiykk2tw-S18ywyPzSPNj8OBwTRiybX/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
-
-2. Or you can clone the repository and import in Android Studio to see the code + build the APK.
+Clone the repository and import in Android Studio to see the code + build the APK.
 
 ```bash
-git clone https://github.com/akshatkverma/ShopOn.git
+git clone https://github.com/DarkCoder999/ARShopify.git
 ```
-
-## Future Scope:
-The option for virtual try on/ see in your room can be made available for more and more products by making a separate application for making 3D models by just scanning the object by mobile phone’s camera, which currently requires a professional to make 3D models using heavy graphical softwares. Continuous improvement can be made to the AR technology, making the items even more realistic and improving the overall experience.
 
 # Team Details :
 **Team Members**:
