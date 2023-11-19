@@ -1,4 +1,4 @@
-# ShopOn
+# ARShopify
 This is an Android Native application which is developed as a solution for _**HackOn with Amazon 2022**_ for the problem statement related to shopping experience. The detailed problem statement and proposed solution are mentioned furthur in the document.  
 Click [here](https://youtu.be/ebxUM9ym_Bw) for the video presentation with app demo.
 
@@ -49,10 +49,7 @@ git clone https://github.com/akshatkverma/ShopOn.git
 The option for virtual try on/ see in your room can be made available for more and more products by making a separate application for making 3D models by just scanning the object by mobile phone’s camera, which currently requires a professional to make 3D models using heavy graphical softwares. Continuous improvement can be made to the AR technology, making the items even more realistic and improving the overall experience.
 
 # Team Details :
-**Team Name** : Lifetime Error
-
 **Team Members**:
-1. [Akshat Kumar Verma](https://www.linkedin.com/in/akshatkumarverma/)
-2. [Mayur Ray](https://www.linkedin.com/in/raymayur9/)
-3. [Afzal Ansari](https://www.linkedin.com/in/afzal-ansari-910b38200/)
-4. [Sharad Shaiwal](https://www.linkedin.com/in/sharad-shaiwal-590b89201/)
+1. Prithvi Raj M
+2. Raghavan B
+3. Vishnu N Ram
