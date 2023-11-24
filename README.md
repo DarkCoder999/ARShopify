@@ -13,8 +13,11 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 
 ## Screenshots of the application :
 
-![WhatsApp Image 2023-11-20 at 00 32 21_b6b21f1b](https://github.com/DarkCoder999/ARShopify/assets/105630771/3aa720e7-c884-4816-8986-2a82abbbee14)
-
+![Homepage](https://github.com/DarkCoder999/ARShopify/assets/105630771/cb2746d2-d0de-4708-975a-1cf2a7121943)
+![Product view](https://github.com/DarkCoder999/ARShopify/assets/105630771/3cc38b57-9492-4b67-a3d2-d3d7ade26201)
+![Example AR - phone stand](https://github.com/DarkCoder999/ARShopify/assets/105630771/a7ca7cf1-d3de-4fd3-9347-d69229a950e5)
+![Example AR - bench](https://github.com/DarkCoder999/ARShopify/assets/105630771/9cb1675a-8883-4dee-ab36-ef8807d12ec6)
+![Example AR - wooden chair](https://github.com/DarkCoder999/ARShopify/assets/105630771/38984c65-b7f2-4eea-a29a-e2c5e8d6f4f2)
 
 ## Use this application : 
 1) Clone the repository and import in Android Studio to see the code + build the APK.
