@@ -23,8 +23,6 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 4) You can view the Augmented view to visualize the furniture in real time by allowing camera access to the app
 5) Point your camera towards the place you wish to picture the furniture and wait for the model to be placed.
 6) You can move the virtual model by interacting with the phone screen.
-7) The model can be scaled by pinching the object, just like zooming in or out.
-
 
 ```bash
 git clone https://github.com/DarkCoder999/ARShopify.git
