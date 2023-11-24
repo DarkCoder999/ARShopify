@@ -13,9 +13,8 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 
 ## Screenshots of the application :
 
-![WhatsApp Image 2023-11-20 at 00 26 48](https://github.com/DarkCoder999/ARShopify/assets/98643503/ae3f2ba9-0206-4806-9a6f-7a39f939fd80)
-![WhatsApp Image 2023-11-20 at 00 26 00](https://github.com/DarkCoder999/ARShopify/assets/98643503/3b2f7931-8667-49e9-8dac-768228a90eba)
-![WhatsApp Image 2023-11-20 at 00 32 21](https://github.com/DarkCoder999/ARShopify/assets/98643503/489499d0-e0a2-4e5d-894b-b6cbb248145b)
+![WhatsApp Image 2023-11-20 at 00 32 21_b6b21f1b](https://github.com/DarkCoder999/ARShopify/assets/105630771/3aa720e7-c884-4816-8986-2a82abbbee14)
+
 
 ## Use this application : 
 1) Clone the repository and import in Android Studio to see the code + build the APK.
