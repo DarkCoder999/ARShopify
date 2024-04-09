@@ -28,9 +28,3 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 ```bash
 git clone https://github.com/DarkCoder999/ARShopify.git
 ```
-
-# Team Details :
-**Team Members**:
-1. Prithvi Raj M
-2. Raghavan B
-3. Vishnu N Ram
